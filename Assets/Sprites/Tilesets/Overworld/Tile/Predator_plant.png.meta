@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 91796bd14b1c2c144b87268c79889709
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1982936001834266232
+    second: Predator_plant_0
+  - first:
+      213: -2692772599889018096
+    second: Predator_plant_1
+  - first:
+      213: 7007628006059922459
+    second: Predator_plant_2
+  - first:
+      213: 8427477129495143607
+    second: Predator_plant_3
+  - first:
+      213: 96840052212283821
+    second: Predator_plant_4
+  - first:
+      213: -982656896896927540
+    second: Predator_plant_5
+  - first:
+      213: 5218301721658033758
+    second: Predator_plant_6
+  - first:
+      213: -4930187051719426302
+    second: Predator_plant_7
+  - first:
+      213: -4479607446968090708
+    second: Predator_plant_8
+  - first:
+      213: -9183770811912964056
+    second: Predator_plant_9
+  - first:
+      213: -4077021754597630836
+    second: Predator_plant_10
+  - first:
+      213: 348127328056238652
+    second: Predator_plant_11
+  - first:
+      213: 421443890738139472
+    second: Predator_plant_12
+  - first:
+      213: 3447185703257837898
+    second: Predator_plant_13
+  - first:
+      213: -1958990813216853349
+    second: Predator_plant_14
+  - first:
+      213: 5934027467825528149
+    second: Predator_plant_15
+  - first:
+      213: 334335122615087391
+    second: Predator_plant_16
+  - first:
+      213: 5700275381611418806
+    second: Predator_plant_17
+  - first:
+      213: -4946778003207579122
+    second: Predator_plant_18
+  - first:
+      213: -88835622648420928
+    second: Predator_plant_19
+  - first:
+      213: 9055337863296550468
+    second: Predator_plant_20
+  - first:
+      213: 946000692697411767
+    second: Predator_plant_21
+  - first:
+      213: -9202527923049984152
+    second: Predator_plant_22
+  - first:
+      213: 4341079487688641911
+    second: Predator_plant_23
+  - first:
+      213: -2584401001861810746
+    second: Predator_plant_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Predator_plant_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1325
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881d55e56323b74e0800000000000000
+      internalID: -1982936001834266232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1294
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013c5ba569951aad0800000000000000
+      internalID: -2692772599889018096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1165
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14d7432b88104160800000000000000
+      internalID: 7007628006059922459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1134
+        width: 66
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b469407cc964f470800000000000000
+      internalID: 8427477129495143607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1005
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9b420b38b085100800000000000000
+      internalID: 96840052212283821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 974
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8fe5432c6ec52f0800000000000000
+      internalID: -982656896896927540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 845
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e568c32a4c12b6840800000000000000
+      internalID: 5218301721658033758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 814
+        width: 149
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f780a6ff4749bb0800000000000000
+      internalID: -4930187051719426302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 685
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafb54ec2cc35d1c0800000000000000
+      internalID: -4479607446968090708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 654
+        width: 150
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828b351ba11bc8080800000000000000
+      internalID: -9183770811912964056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 525
+        width: 138
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c1bafa0528b67c0800000000000000
+      internalID: -4077021754597630836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 494
+        width: 177
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32e56dd5fbc4d400800000000000000
+      internalID: 348127328056238652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 365
+        width: 133
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05194385cf449d500800000000000000
+      internalID: 421443890738139472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 417
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a411d75122dd6df20800000000000000
+      internalID: 3447185703257837898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 334
+        width: 160
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92b4fb0c3440d4e0800000000000000
+      internalID: -1958990813216853349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 402
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55db62bca86e95250800000000000000
+      internalID: 5934027467825528149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_16
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 396
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11b86bc50cc3a400800000000000000
+      internalID: 334335122615087391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 390
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b45ada12427b1f40800000000000000
+      internalID: 5700275381611418806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_18
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 374
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a98108d93895bb0800000000000000
+      internalID: -4946778003207579122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 357
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5e3acc87464cef0800000000000000
+      internalID: -88835622648420928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 363
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4468fe63fc50bad70800000000000000
+      internalID: 9055337863296550468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 205
+        width: 103
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0b08d2e9ed02d00800000000000000
+      internalID: 946000692697411767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 174
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f0efe6c9d0a4080800000000000000
+      internalID: -9202527923049984152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 45
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d8a654bcc9e3c30800000000000000
+      internalID: 4341079487688641911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predator_plant_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 14
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5fcd64bfc522cd0800000000000000
+      internalID: -2584401001861810746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Predator_plant_0: -1982936001834266232
+      Predator_plant_1: -2692772599889018096
+      Predator_plant_10: -4077021754597630836
+      Predator_plant_11: 348127328056238652
+      Predator_plant_12: 421443890738139472
+      Predator_plant_13: 3447185703257837898
+      Predator_plant_14: -1958990813216853349
+      Predator_plant_15: 5934027467825528149
+      Predator_plant_16: 334335122615087391
+      Predator_plant_17: 5700275381611418806
+      Predator_plant_18: -4946778003207579122
+      Predator_plant_19: -88835622648420928
+      Predator_plant_2: 7007628006059922459
+      Predator_plant_20: 9055337863296550468
+      Predator_plant_21: 946000692697411767
+      Predator_plant_22: -9202527923049984152
+      Predator_plant_23: 4341079487688641911
+      Predator_plant_24: -2584401001861810746
+      Predator_plant_3: 8427477129495143607
+      Predator_plant_4: 96840052212283821
+      Predator_plant_5: -982656896896927540
+      Predator_plant_6: 5218301721658033758
+      Predator_plant_7: -4930187051719426302
+      Predator_plant_8: -4479607446968090708
+      Predator_plant_9: -9183770811912964056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 5862f7de785d9af45a71149853442eb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4910719309439474047
+    second: shinies_0
+  - first:
+      213: 7324560484328270512
+    second: shinies_1
+  - first:
+      213: 5326381575638713566
+    second: shinies_2
+  - first:
+      213: -2848063733405384543
+    second: shinies_3
+  - first:
+      213: 4358223507822364889
+    second: shinies_4
+  - first:
+      213: 7911953112707757343
+    second: shinies_5
+  - first:
+      213: 2793398777626254517
+    second: shinies_6
+  - first:
+      213: -6834139994874443472
+    second: shinies_7
+  - first:
+      213: -8413376888429164209
+    second: shinies_8
+  - first:
+      213: 2422519276188203291
+    second: shinies_9
+  - first:
+      213: 1921360376874827466
+    second: shinies_10
+  - first:
+      213: 1919743165202796952
+    second: shinies_11
+  - first:
+      213: -7058556480756076458
+    second: shinies_12
+  - first:
+      213: 6568837604931320966
+    second: shinies_13
+  - first:
+      213: 3140698689467542151
+    second: shinies_14
+  - first:
+      213: 6499849551319024942
+    second: shinies_15
+  - first:
+      213: 1027478630193049936
+    second: shinies_16
+  - first:
+      213: 341382141706045526
+    second: shinies_17
+  - first:
+      213: -1896490013190611594
+    second: shinies_18
+  - first:
+      213: 3656806183011302361
+    second: shinies_19
+  - first:
+      213: 1490120206806507570
+    second: shinies_20
+  - first:
+      213: 5287562792314859092
+    second: shinies_21
+  - first:
+      213: -8830810942254019240
+    second: shinies_22
+  - first:
+      213: 7367729228383179302
+    second: shinies_23
+  - first:
+      213: -718985223455044308
+    second: shinies_24
+  - first:
+      213: -7187911091429454058
+    second: shinies_25
+  - first:
+      213: 7251040747071803474
+    second: shinies_26
+  - first:
+      213: 7710504861149396593
+    second: shinies_27
+  - first:
+      213: 8277145129323479951
+    second: shinies_28
+  - first:
+      213: 1751673941861596637
+    second: shinies_29
+  - first:
+      213: -5489354007127386198
+    second: shinies_30
+  - first:
+      213: 5057872977519031788
+    second: shinies_31
+  - first:
+      213: -1266844017175591422
+    second: shinies_32
+  - first:
+      213: 3336259616862724696
+    second: shinies_33
+  - first:
+      213: 6704717917628834146
+    second: shinies_34
+  - first:
+      213: -1564269535130054465
+    second: shinies_35
+  - first:
+      213: -4944554392975485957
+    second: shinies_36
+  - first:
+      213: -4105540791445129560
+    second: shinies_37
+  - first:
+      213: -7775066931014292815
+    second: shinies_38
+  - first:
+      213: -4796856763946787225
+    second: shinies_39
+  - first:
+      213: 3365820125616430480
+    second: shinies_40
+  - first:
+      213: -4615719250922776865
+    second: shinies_41
+  - first:
+      213: 880218249958691545
+    second: shinies_42
+  - first:
+      213: -6172462731224399567
+    second: shinies_43
+  - first:
+      213: 6240868936187973500
+    second: shinies_44
+  - first:
+      213: 5428537339353755328
+    second: shinies_45
+  - first:
+      213: -4185298018003924174
+    second: shinies_46
+  - first:
+      213: 2488536288870667465
+    second: shinies_47
+  - first:
+      213: 7224891082047065024
+    second: shinies_48
+  - first:
+      213: 8928202183398193893
+    second: shinies_49
+  - first:
+      213: -7819146002451675685
+    second: shinies_50
+  - first:
+      213: -4167029364252952887
+    second: shinies_51
+  - first:
+      213: 7420937857085470068
+    second: shinies_52
+  - first:
+      213: 2046761181023630018
+    second: shinies_53
+  - first:
+      213: -1462906135444876854
+    second: shinies_54
+  - first:
+      213: -3890429604245764550
+    second: shinies_55
+  - first:
+      213: -3500772606913276608
+    second: shinies_56
+  - first:
+      213: 5065652312786835025
+    second: shinies_57
+  - first:
+      213: 8708892364086783901
+    second: shinies_58
+  - first:
+      213: 6022624441095238857
+    second: shinies_59
+  - first:
+      213: -1009526702474975096
+    second: shinies_60
+  - first:
+      213: 151289712219294870
+    second: shinies_61
+  - first:
+      213: -4782416279104995422
+    second: shinies_62
+  - first:
+      213: -579258116826026321
+    second: shinies_63
+  - first:
+      213: 2940797820680607644
+    second: shinies_64
+  - first:
+      213: 6189045123785639884
+    second: shinies_65
+  - first:
+      213: -4550033883240893415
+    second: shinies_66
+  - first:
+      213: 926633207038117114
+    second: shinies_67
+  - first:
+      213: 9069665483858588227
+    second: shinies_68
+  - first:
+      213: 4916095594081370469
+    second: shinies_69
+  - first:
+      213: 5226130576534790970
+    second: shinies_70
+  - first:
+      213: -9158785550027592381
+    second: shinies_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shinies_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f799ace9131662440800000000000000
+      internalID: 4910719309439474047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 180
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baef3c04f016a560800000000000000
+      internalID: 7324560484328270512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4812a92db1be940800000000000000
+      internalID: 5326381575638713566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 180
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a003b8cf15a978d0800000000000000
+      internalID: -2848063733405384543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 170
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8428380358b7c30800000000000000
+      internalID: 4358223507822364889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15fd7acf67eccd60800000000000000
+      internalID: 7911953112707757343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 169
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc5c60636524c620800000000000000
+      internalID: 2793398777626254517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 178
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039083c22e14821a0800000000000000
+      internalID: -6834139994874443472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 170
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49c2b3cb4ead3b80800000000000000
+      internalID: -8413376888429164209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19fbb652748e9120800000000000000
+      internalID: 2422519276188203291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace722d351b0aaa10800000000000000
+      internalID: 1921360376874827466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 180
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89195edcc3c44aa10800000000000000
+      internalID: 1919743165202796952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650b0815748fa0e90800000000000000
+      internalID: -7058556480756076458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_13
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 180
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cb82d9ff2392b50800000000000000
+      internalID: 6568837604931320966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 171
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a6f3461d0069b20800000000000000
+      internalID: 3140698689467542151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 180
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e254adfaaba143a50800000000000000
+      internalID: 6499849551319024942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_16
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 170
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05136fece56524e00800000000000000
+      internalID: 1027478630193049936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_17
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 179
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6580d09cf35dcb400800000000000000
+      internalID: 341382141706045526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_18
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 169
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d92bb81605ea5e0800000000000000
+      internalID: -1896490013190611594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_19
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 178
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db37de49d59fb230800000000000000
+      internalID: 3656806183011302361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_20
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 169
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230655fde68fda410800000000000000
+      internalID: 1490120206806507570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_21
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 178
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eef7b4852316940800000000000000
+      internalID: 5287562792314859092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_22
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 169
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d01545c38a27580800000000000000
+      internalID: -8830810942254019240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_23
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 178
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622da0382be6f3660800000000000000
+      internalID: 7367729228383179302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d0535afb6a506f0800000000000000
+      internalID: -718985223455044308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fc14e02f86f3c90800000000000000
+      internalID: -7187911091429454058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 123
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250191d442fd0a460800000000000000
+      internalID: 7251040747071803474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 122
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e7bb7b157310b60800000000000000
+      internalID: 7710504861149396593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_28
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 123
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f834ea314a35ed270800000000000000
+      internalID: 8277145129323479951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddf7fa5b223f4810800000000000000
+      internalID: 1751673941861596637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_30
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa71ec64d95e1d3b0800000000000000
+      internalID: -5489354007127386198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_31
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b110ecac213640800000000000000
+      internalID: 5057872977519031788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_32
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 123
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2068b6214144b6ee0800000000000000
+      internalID: -1266844017175591422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_33
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 122
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852659df176cc4e20800000000000000
+      internalID: 3336259616862724696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_34
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 122
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261a6774c61fb0d50800000000000000
+      internalID: 6704717917628834146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_35
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 122
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb09b9945299a4ae0800000000000000
+      internalID: -1564269535130054465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3591a1af9616bb0800000000000000
+      internalID: -4944554392975485957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6790bf6603607c0800000000000000
+      internalID: -4105540791445129560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baa10002d9691490800000000000000
+      internalID: -7775066931014292815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e958220342e6db0800000000000000
+      internalID: -4796856763946787225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d5a35429bc5be20800000000000000
+      internalID: 3365820125616430480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_41
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6d0d1ebcba1ffb0800000000000000
+      internalID: -4615719250922776865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_42
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d29a91b5d9273c00800000000000000
+      internalID: 880218249958691545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_43
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 61
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131480c59d1075aa0800000000000000
+      internalID: -6172462731224399567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_44
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 60
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f014f5b350c9650800000000000000
+      internalID: 6240868936187973500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_45
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceef12d2f9065b40800000000000000
+      internalID: 5428537339353755328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_46
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bcab590a5dae5c0800000000000000
+      internalID: -4185298018003924174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_47
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 59
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c41ec4e19e098220800000000000000
+      internalID: 2488536288870667465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_48
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb8d46f828f34460800000000000000
+      internalID: 7224891082047065024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaf058059857eb70800000000000000
+      internalID: 8928202183398193893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5c3fc6320dc7390800000000000000
+      internalID: -7819146002451675685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6b41ffedcbb26c0800000000000000
+      internalID: -4167029364252952887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_52
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475f3d7c9a77cf660800000000000000
+      internalID: 7420937857085470068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2f8fe237e876c10800000000000000
+      internalID: 2046761181023630018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac19111ee96b2bbe0800000000000000
+      internalID: -1462906135444876854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_55
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36844723ea620ac0800000000000000
+      internalID: -3890429604245764550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_56
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0451485acd1ca6fc0800000000000000
+      internalID: -3500772606913276608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_57
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1569b4380ffcc4640800000000000000
+      internalID: 5065652312786835025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_58
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f2184a6733cd870800000000000000
+      internalID: 8708892364086783901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_59
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4311b1509a49350800000000000000
+      internalID: 6022624441095238857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_60
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88825b310d07df1f0800000000000000
+      internalID: -1009526702474975096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_61
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c8003113d791200800000000000000
+      internalID: 151289712219294870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afb6e38bb171adb0800000000000000
+      internalID: -4782416279104995422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_63
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faea251dfcf06f7f0800000000000000
+      internalID: -579258116826026321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_64
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9719e17900dfc820800000000000000
+      internalID: 2940797820680607644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_65
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc74b16cfb7e3e550800000000000000
+      internalID: 6189045123785639884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_66
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9147f615a480bd0c0800000000000000
+      internalID: -4550033883240893415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_67
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af486960eff0cdc00800000000000000
+      internalID: 926633207038117114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_68
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342330554bceddd70800000000000000
+      internalID: 9069665483858588227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_69
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561451f65ea793440800000000000000
+      internalID: 4916095594081370469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_70
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33e924f112f68840800000000000000
+      internalID: 5226130576534790970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinies_71
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34def9c411575e080800000000000000
+      internalID: -9158785550027592381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shinies_0: 4910719309439474047
+      shinies_1: 7324560484328270512
+      shinies_10: 1921360376874827466
+      shinies_11: 1919743165202796952
+      shinies_12: -7058556480756076458
+      shinies_13: 6568837604931320966
+      shinies_14: 3140698689467542151
+      shinies_15: 6499849551319024942
+      shinies_16: 1027478630193049936
+      shinies_17: 341382141706045526
+      shinies_18: -1896490013190611594
+      shinies_19: 3656806183011302361
+      shinies_2: 5326381575638713566
+      shinies_20: 1490120206806507570
+      shinies_21: 5287562792314859092
+      shinies_22: -8830810942254019240
+      shinies_23: 7367729228383179302
+      shinies_24: -718985223455044308
+      shinies_25: -7187911091429454058
+      shinies_26: 7251040747071803474
+      shinies_27: 7710504861149396593
+      shinies_28: 8277145129323479951
+      shinies_29: 1751673941861596637
+      shinies_3: -2848063733405384543
+      shinies_30: -5489354007127386198
+      shinies_31: 5057872977519031788
+      shinies_32: -1266844017175591422
+      shinies_33: 3336259616862724696
+      shinies_34: 6704717917628834146
+      shinies_35: -1564269535130054465
+      shinies_36: -4944554392975485957
+      shinies_37: -4105540791445129560
+      shinies_38: -7775066931014292815
+      shinies_39: -4796856763946787225
+      shinies_4: 4358223507822364889
+      shinies_40: 3365820125616430480
+      shinies_41: -4615719250922776865
+      shinies_42: 880218249958691545
+      shinies_43: -6172462731224399567
+      shinies_44: 6240868936187973500
+      shinies_45: 5428537339353755328
+      shinies_46: -4185298018003924174
+      shinies_47: 2488536288870667465
+      shinies_48: 7224891082047065024
+      shinies_49: 8928202183398193893
+      shinies_5: 7911953112707757343
+      shinies_50: -7819146002451675685
+      shinies_51: -4167029364252952887
+      shinies_52: 7420937857085470068
+      shinies_53: 2046761181023630018
+      shinies_54: -1462906135444876854
+      shinies_55: -3890429604245764550
+      shinies_56: -3500772606913276608
+      shinies_57: 5065652312786835025
+      shinies_58: 8708892364086783901
+      shinies_59: 6022624441095238857
+      shinies_6: 2793398777626254517
+      shinies_60: -1009526702474975096
+      shinies_61: 151289712219294870
+      shinies_62: -4782416279104995422
+      shinies_63: -579258116826026321
+      shinies_64: 2940797820680607644
+      shinies_65: 6189045123785639884
+      shinies_66: -4550033883240893415
+      shinies_67: 926633207038117114
+      shinies_68: 9069665483858588227
+      shinies_69: 4916095594081370469
+      shinies_7: -6834139994874443472
+      shinies_70: 5226130576534790970
+      shinies_71: -9158785550027592381
+      shinies_8: -8413376888429164209
+      shinies_9: 2422519276188203291
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
