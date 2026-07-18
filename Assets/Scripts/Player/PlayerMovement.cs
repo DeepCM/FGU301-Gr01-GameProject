@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : MonoBehaviour
@@ -16,8 +17,15 @@ public class PlayerController : MonoBehaviour
     public LayerMask groundLayer;
 
     public Transform wallCheck;        // empty object placed at the character's side
-    public float wallCheckRadius = 0.15f;
+    public bool isWallJumping;
+    public float wallCheckRadius = 0.2f;
     public LayerMask wallLayer;
+    public float wallSlideSpeed = 2f;
+    public Vector2 wallJumpForce = new Vector2(10f, 12f); // horizontal and vertical force applied when jumping off a wall
+    public float WallJumpDuration = 0.5f;
+    public float WallJumpCounter;
+    public float WallJumpDirection; // -1 for left, 1 for right
+    public float WallJumpTime = 0.2f; // Time window to allow wall jump after leaving the wall
 
     [Header("References")]
     public Animator animator;
@@ -145,6 +153,44 @@ public class PlayerController : MonoBehaviour
 
         yield return new WaitForSeconds(dashCooldown);
         dashOnCooldown = false;
+    }
+
+    void WallJump()
+    {
+        if (isWalling)
+        {
+            // Determine the direction to jump away from the wall
+            WallJumpDirection = facingRight ? -1f : 1f;
+            // Apply the wall jump force
+            rb.linearVelocity = new Vector2(WallJumpDirection * wallJumpForce.x, wallJumpForce.y);
+            // Temporarily disable horizontal input for a short duration to prevent immediate re-grabbing the wall
+            isWallJumping = false;
+            WallJumpCounter = WallJumpDuration;
+        }
+        else
+        {
+            WallJumpCounter -= Time.deltaTime;
+        }
+
+        // Use GetButtonDown for input mapped to "Jump" (string); GetMouseButtonDown requires an int
+        if (Input.GetButtonDown("Jump") && WallJumpCounter > 0f) {
+            rb.linearVelocity = new Vector2(WallJumpDirection * wallJumpForce.x, wallJumpForce.y);
+            WallJumpCounter = 0f;
+            if (facingRight && WallJumpDirection < 0f)
+            {
+                Flip();
+            } else if (!facingRight && WallJumpDirection > 0f){
+                Flip();
+            } else
+            {
+                // Do nothing, already facing the correct direction
+            }
+        }
+    }
+
+    void StopWallJumping()
+    {
+
     }
 
     void HandleFlip()
