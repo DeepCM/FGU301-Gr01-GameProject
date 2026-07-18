@@ -1,0 +1,2873 @@
+fileFormatVersion: 2
+guid: 6d03002d337adf747ba66cae1b9bd554
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5696307001442548454
+    second: stalactites_0
+  - first:
+      213: -373002941411781763
+    second: stalactites_1
+  - first:
+      213: 6258169408424254000
+    second: stalactites_2
+  - first:
+      213: 1801264737914116766
+    second: stalactites_3
+  - first:
+      213: -1499876376691996512
+    second: stalactites_4
+  - first:
+      213: -7256311765971431685
+    second: stalactites_5
+  - first:
+      213: 4148069266045125263
+    second: stalactites_6
+  - first:
+      213: 3000637552945894379
+    second: stalactites_7
+  - first:
+      213: 2176277139620125559
+    second: stalactites_8
+  - first:
+      213: -4449783484636665693
+    second: stalactites_9
+  - first:
+      213: 721681101236833356
+    second: stalactites_10
+  - first:
+      213: 646658127724452576
+    second: stalactites_11
+  - first:
+      213: 6734540078933027376
+    second: stalactites_12
+  - first:
+      213: 2318412603403499620
+    second: stalactites_13
+  - first:
+      213: 8385547988105115611
+    second: stalactites_14
+  - first:
+      213: 7152043144128011482
+    second: stalactites_15
+  - first:
+      213: 4849034879052229486
+    second: stalactites_16
+  - first:
+      213: -3282713241902620777
+    second: stalactites_17
+  - first:
+      213: 7114378860160789640
+    second: stalactites_18
+  - first:
+      213: 6322879179503596805
+    second: stalactites_19
+  - first:
+      213: 1666715196932976023
+    second: stalactites_20
+  - first:
+      213: 7415465231001302262
+    second: stalactites_21
+  - first:
+      213: 2907697314557222545
+    second: stalactites_22
+  - first:
+      213: -287059055973713887
+    second: stalactites_23
+  - first:
+      213: -2543752407649618809
+    second: stalactites_24
+  - first:
+      213: -2385331813858198620
+    second: stalactites_25
+  - first:
+      213: 4660803961084761140
+    second: stalactites_26
+  - first:
+      213: -6465715879035952422
+    second: stalactites_27
+  - first:
+      213: -3009627866013788084
+    second: stalactites_28
+  - first:
+      213: 2746143009485099520
+    second: stalactites_29
+  - first:
+      213: -8936188462261529172
+    second: stalactites_30
+  - first:
+      213: -4504875942295408271
+    second: stalactites_31
+  - first:
+      213: 703593719781179714
+    second: stalactites_32
+  - first:
+      213: -1449288039167268379
+    second: stalactites_33
+  - first:
+      213: -1548629952524174935
+    second: stalactites_34
+  - first:
+      213: -2928086821171737373
+    second: stalactites_35
+  - first:
+      213: 8201032142616116336
+    second: stalactites_36
+  - first:
+      213: 4203903134034407577
+    second: stalactites_37
+  - first:
+      213: 8031554714270251121
+    second: stalactites_38
+  - first:
+      213: -7957833170730116401
+    second: stalactites_39
+  - first:
+      213: 2261184699132087361
+    second: stalactites_40
+  - first:
+      213: 3185089457543912330
+    second: stalactites_41
+  - first:
+      213: 7827589498392869599
+    second: stalactites_42
+  - first:
+      213: 3089055888483453951
+    second: stalactites_43
+  - first:
+      213: -7335063982110951032
+    second: stalactites_44
+  - first:
+      213: 2743928015890321824
+    second: stalactites_45
+  - first:
+      213: 5943942693303558770
+    second: stalactites_46
+  - first:
+      213: 285827621027925941
+    second: stalactites_47
+  - first:
+      213: 8471429683996079307
+    second: stalactites_48
+  - first:
+      213: 2051408502211258869
+    second: stalactites_49
+  - first:
+      213: 3616797542256184631
+    second: stalactites_50
+  - first:
+      213: 6219939997292954368
+    second: stalactites_51
+  - first:
+      213: 1000606834642040778
+    second: stalactites_52
+  - first:
+      213: 704036146565283981
+    second: stalactites_53
+  - first:
+      213: -4487650257230154349
+    second: stalactites_54
+  - first:
+      213: 111974725971248176
+    second: stalactites_55
+  - first:
+      213: 6929587371959094304
+    second: stalactites_56
+  - first:
+      213: 7832278691280402457
+    second: stalactites_57
+  - first:
+      213: 5551560161885042933
+    second: stalactites_58
+  - first:
+      213: 1627096511657251044
+    second: stalactites_59
+  - first:
+      213: 5289640498920863714
+    second: stalactites_60
+  - first:
+      213: 5084364019654077334
+    second: stalactites_61
+  - first:
+      213: 6170843677828274622
+    second: stalactites_62
+  - first:
+      213: 3886323609737579717
+    second: stalactites_63
+  - first:
+      213: 5979335611643266041
+    second: stalactites_64
+  - first:
+      213: -1869179411393559643
+    second: stalactites_65
+  - first:
+      213: -7272566379586477122
+    second: stalactites_66
+  - first:
+      213: 2702626104634308864
+    second: stalactites_67
+  - first:
+      213: -615515576824462730
+    second: stalactites_68
+  - first:
+      213: -3846101751040400656
+    second: stalactites_69
+  - first:
+      213: -5484958612754894397
+    second: stalactites_70
+  - first:
+      213: 700509537803074841
+    second: stalactites_71
+  - first:
+      213: 1074284273607806046
+    second: stalactites_72
+  - first:
+      213: -2268150624177557075
+    second: stalactites_73
+  - first:
+      213: -3748197639249096168
+    second: stalactites_74
+  - first:
+      213: -719330990779564538
+    second: stalactites_75
+  - first:
+      213: 1284664313565682991
+    second: stalactites_76
+  - first:
+      213: -522146978770965095
+    second: stalactites_77
+  - first:
+      213: -3858610063436819225
+    second: stalactites_78
+  - first:
+      213: 6557661509060497644
+    second: stalactites_79
+  - first:
+      213: 1385690998926455986
+    second: stalactites_80
+  - first:
+      213: -8169503641257362356
+    second: stalactites_81
+  - first:
+      213: 6022344380071158814
+    second: stalactites_82
+  - first:
+      213: -4780842867360169956
+    second: stalactites_83
+  - first:
+      213: -8707123839252512210
+    second: stalactites_84
+  - first:
+      213: 3781148707815206031
+    second: stalactites_85
+  - first:
+      213: -7668235810332130000
+    second: stalactites_86
+  - first:
+      213: -208405804934347189
+    second: stalactites_87
+  - first:
+      213: -1672111882177349038
+    second: stalactites_88
+  - first:
+      213: -8775462066241290340
+    second: stalactites_89
+  - first:
+      213: 6749390808038875880
+    second: stalactites_90
+  - first:
+      213: 2605036619568519651
+    second: stalactites_91
+  - first:
+      213: -5522858791621113383
+    second: stalactites_92
+  - first:
+      213: -1581071632557064770
+    second: stalactites_93
+  - first:
+      213: -8720604692451543559
+    second: stalactites_94
+  - first:
+      213: -2970824899809109718
+    second: stalactites_95
+  - first:
+      213: -6574418735723107014
+    second: stalactites_96
+  - first:
+      213: 6123669546937109845
+    second: stalactites_97
+  - first:
+      213: 6240170340698074512
+    second: stalactites_98
+  - first:
+      213: 4437543126832770350
+    second: stalactites_99
+  - first:
+      213: 6513019023980956900
+    second: stalactites_100
+  - first:
+      213: -7475709866989799383
+    second: stalactites_101
+  - first:
+      213: 586490342037563768
+    second: stalactites_102
+  - first:
+      213: 8718329974521599972
+    second: stalactites_103
+  - first:
+      213: 5340541085226020610
+    second: stalactites_104
+  - first:
+      213: 8145766655664784945
+    second: stalactites_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stalactites_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1823
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15427766f6a2f0b0800000000000000
+      internalID: -5696307001442548454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1837
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7399f01dc3d2daf0800000000000000
+      internalID: -373002941411781763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1711
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a18557beb79d650800000000000000
+      internalID: 6258169408424254000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1725
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9adec15cb06ff810800000000000000
+      internalID: 1801264737914116766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1643
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a80640d16e5f2be0800000000000000
+      internalID: -1499876376691996512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1644
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe09c9f4e66c4b90800000000000000
+      internalID: -7256311765971431685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1551
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82c5522507e09930800000000000000
+      internalID: 4148069266045125263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1565
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be39903d4f764a920800000000000000
+      internalID: 3000637552945894379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1456
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b5cdf2780b33e10800000000000000
+      internalID: 2176277139620125559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1456
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8e4d62f713f32c0800000000000000
+      internalID: -4449783484636665693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1391
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c8550532de30a00800000000000000
+      internalID: 721681101236833356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1405
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea922a142469f800800000000000000
+      internalID: 646658127724452576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1296
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a2f6a4584e57d50800000000000000
+      internalID: 6734540078933027376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1296
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46877a4baf7ac2020800000000000000
+      internalID: 2318412603403499620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1231
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd73ff577737f5470800000000000000
+      internalID: 8385547988105115611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1245
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc9400b859214360800000000000000
+      internalID: 7152043144128011482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1135
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b236df78b3b4340800000000000000
+      internalID: 4849034879052229486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1174
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f5ce4f2b57172d0800000000000000
+      internalID: -3282713241902620777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1135
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cae6531e95bb260800000000000000
+      internalID: 7114378860160789640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1174
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505760c1d116fb750800000000000000
+      internalID: 6322879179503596805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1071
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d6fe614ac512710800000000000000
+      internalID: 1666715196932976023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1085
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4b71ab65609e660800000000000000
+      internalID: 7415465231001302262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 975
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e5a8c4d473a5820800000000000000
+      internalID: 2907697314557222545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1003
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128b02b3f49240cf0800000000000000
+      internalID: -287059055973713887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 975
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784ff71a9a6c2bcd0800000000000000
+      internalID: -2543752407649618809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1003
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab3b837a5995eed0800000000000000
+      internalID: -2385331813858198620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 987
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434d03432808ea040800000000000000
+      internalID: 4660803961084761140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 987
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a5733aa92546a0800000000000000
+      internalID: -6465715879035952422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 911
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48912cc667ab36d0800000000000000
+      internalID: -3009627866013788084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 925
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00218c674824c1620800000000000000
+      internalID: 2746143009485099520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 815
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca515f480f74cf380800000000000000
+      internalID: -8936188462261529172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 835
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1717746c2377b71c0800000000000000
+      internalID: -4504875942295408271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 839
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241c0c5a2caa3c900800000000000000
+      internalID: 703593719781179714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 836
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e96630053813ebe0800000000000000
+      internalID: -1449288039167268379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 815
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9344f5349228ae0800000000000000
+      internalID: -1548629952524174935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 835
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec4e80cc885d57d0800000000000000
+      internalID: -2928086821171737373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 839
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cb134684befc170800000000000000
+      internalID: 8201032142616116336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 836
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990b54e80a3475a30800000000000000
+      internalID: 4203903134034407577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 829
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178313aa570d57f60800000000000000
+      internalID: 8031554714270251121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 825
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca9fc4c4e8109190800000000000000
+      internalID: -7957833170730116401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 831
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c015be087516f10800000000000000
+      internalID: 2261184699132087361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 826
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b1fbe7cf5b33c20800000000000000
+      internalID: 3185089457543912330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_42
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 829
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaf84b2d2f21ac60800000000000000
+      internalID: 7827589498392869599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 825
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb826cc6f78eda20800000000000000
+      internalID: 3089055888483453951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 831
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889b38dcb2e943a90800000000000000
+      internalID: -7335063982110951032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 826
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a192641ef3641620800000000000000
+      internalID: 2743928015890321824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 818
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27223af13602d7250800000000000000
+      internalID: 5943942693303558770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 819
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf4d5af4b677f300800000000000000
+      internalID: 285827621027925941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 811
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4394ef960909570800000000000000
+      internalID: 8471429683996079307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 822
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9a487f921187c10800000000000000
+      internalID: 2051408502211258869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 819
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d8faab332713230800000000000000
+      internalID: 3616797542256184631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_51
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 818
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00304ee097aa15650800000000000000
+      internalID: 6219939997292954368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 819
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7baaa5d9ed2ed00800000000000000
+      internalID: 1000606834642040778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 811
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d800f09252d35c900800000000000000
+      internalID: 704036146565283981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 822
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3953b9d1ed9a8b1c0800000000000000
+      internalID: -4487650257230154349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 819
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03486558b60dd8100800000000000000
+      internalID: 111974725971248176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_56
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 813
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c87a11007da2060800000000000000
+      internalID: 6929587371959094304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 813
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91831a7f8f7d1bc60800000000000000
+      internalID: 7832278691280402457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_58
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 751
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f83e56cd8a1b0d40800000000000000
+      internalID: 5551560161885042933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 765
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e09b9818ab949610800000000000000
+      internalID: 1627096511657251044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 673
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7b2bf0204986940800000000000000
+      internalID: 5289640498920863714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 680
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b2244432a4f8640800000000000000
+      internalID: 5084364019654077334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_62
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 678
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb95b6561ad33a550800000000000000
+      internalID: 6170843677828274622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_63
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 676
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc4f908bbefee530800000000000000
+      internalID: 3886323609737579717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_64
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 673
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f307d41f0edaf250800000000000000
+      internalID: 5979335611643266041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 680
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3c96a8a375f06e0800000000000000
+      internalID: -1869179411393559643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_66
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 678
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3ac43d867a21b90800000000000000
+      internalID: -7272566379586477122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_67
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 676
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009fc6f7f18a18520800000000000000
+      internalID: 2702626104634308864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_68
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 670
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67288a118df3577f0800000000000000
+      internalID: -615515576824462730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_69
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 664
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2aa3fb5d6ef9ac0800000000000000
+      internalID: -3846101751040400656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_70
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 666
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c17607c33381e3b0800000000000000
+      internalID: -5484958612754894397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_71
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 662
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d768296b5b8b900800000000000000
+      internalID: 700509537803074841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_72
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 670
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c8e24eadf98ee00800000000000000
+      internalID: 1074284273607806046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 667
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1f0d44609e580e0800000000000000
+      internalID: -2268150624177557075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_74
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 670
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812999c1b1abbfbc0800000000000000
+      internalID: -3748197639249096168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_75
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 664
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e77aa664c6406f0800000000000000
+      internalID: -719330990779564538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 666
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d14b1036b04d110800000000000000
+      internalID: 1284664313565682991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_77
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 662
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d20d9d616f0c8f0800000000000000
+      internalID: -522146978770965095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_78
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 670
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4d9125796737ac0800000000000000
+      internalID: -3858610063436819225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_79
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 667
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce09dc4066e710b50800000000000000
+      internalID: 6557661509060497644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_80
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 657
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4b77f2f96fa3310800000000000000
+      internalID: 1385690998926455986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_81
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 657
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c389fd8b710ae80800000000000000
+      internalID: -8169503641257362356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_82
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 663
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1426315e4aa39350800000000000000
+      internalID: 6022344380071158814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 656
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10890cfdb807adb0800000000000000
+      internalID: -4780842867360169956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_84
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 657
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22c40220051a2780800000000000000
+      internalID: -8707123839252512210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_85
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 657
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ca04467b6597430800000000000000
+      internalID: 3781148707815206031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_86
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 663
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03549379824f49590800000000000000
+      internalID: -7668235810332130000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 656
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4642cb46089b1df0800000000000000
+      internalID: -208405804934347189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_88
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 655
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25afb163a177bc8e0800000000000000
+      internalID: -1672111882177349038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_89
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 650
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fb5c1cebb473680800000000000000
+      internalID: -8775462066241290340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_90
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 651
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2a17b1e27aaad50800000000000000
+      internalID: 6749390808038875880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_91
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 649
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e91440e003f62420800000000000000
+      internalID: 2605036619568519651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_92
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 654
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9c7ccb03dda53b0800000000000000
+      internalID: -5522858791621113383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_93
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 655
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd3df02ab7ee0ae0800000000000000
+      internalID: -1581071632557064770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_94
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 650
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f532d76c303af680800000000000000
+      internalID: -8720604692451543559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 651
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a291ef46e7285c6d0800000000000000
+      internalID: -2970824899809109718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_96
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 649
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d2d8c1ef8f2c4a0800000000000000
+      internalID: -6574418735723107014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_97
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 654
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d40132205abf450800000000000000
+      internalID: 6123669546937109845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_98
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 488
+        width: 61
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dac3fecd9899650800000000000000
+      internalID: 6240170340698074512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 605
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2de75676f1559d30800000000000000
+      internalID: 4437543126832770350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_100
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 424
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec0fbb7b44e26a50800000000000000
+      internalID: 6513019023980956900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_101
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 438
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928b036eb71f04890800000000000000
+      internalID: -7475709866989799383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_102
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 249
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879a855dbd1a32800800000000000000
+      internalID: 586490342037563768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_103
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 263
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7100e8beabdf870800000000000000
+      internalID: 8718329974521599972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_104
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 76
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fa64552d96d1a40800000000000000
+      internalID: 5340541085226020610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stalactites_105
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 90
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1360f1e7d939b0170800000000000000
+      internalID: 8145766655664784945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stalactites_0: -5696307001442548454
+      stalactites_1: -373002941411781763
+      stalactites_10: 721681101236833356
+      stalactites_100: 6513019023980956900
+      stalactites_101: -7475709866989799383
+      stalactites_102: 586490342037563768
+      stalactites_103: 8718329974521599972
+      stalactites_104: 5340541085226020610
+      stalactites_105: 8145766655664784945
+      stalactites_11: 646658127724452576
+      stalactites_12: 6734540078933027376
+      stalactites_13: 2318412603403499620
+      stalactites_14: 8385547988105115611
+      stalactites_15: 7152043144128011482
+      stalactites_16: 4849034879052229486
+      stalactites_17: -3282713241902620777
+      stalactites_18: 7114378860160789640
+      stalactites_19: 6322879179503596805
+      stalactites_2: 6258169408424254000
+      stalactites_20: 1666715196932976023
+      stalactites_21: 7415465231001302262
+      stalactites_22: 2907697314557222545
+      stalactites_23: -287059055973713887
+      stalactites_24: -2543752407649618809
+      stalactites_25: -2385331813858198620
+      stalactites_26: 4660803961084761140
+      stalactites_27: -6465715879035952422
+      stalactites_28: -3009627866013788084
+      stalactites_29: 2746143009485099520
+      stalactites_3: 1801264737914116766
+      stalactites_30: -8936188462261529172
+      stalactites_31: -4504875942295408271
+      stalactites_32: 703593719781179714
+      stalactites_33: -1449288039167268379
+      stalactites_34: -1548629952524174935
+      stalactites_35: -2928086821171737373
+      stalactites_36: 8201032142616116336
+      stalactites_37: 4203903134034407577
+      stalactites_38: 8031554714270251121
+      stalactites_39: -7957833170730116401
+      stalactites_4: -1499876376691996512
+      stalactites_40: 2261184699132087361
+      stalactites_41: 3185089457543912330
+      stalactites_42: 7827589498392869599
+      stalactites_43: 3089055888483453951
+      stalactites_44: -7335063982110951032
+      stalactites_45: 2743928015890321824
+      stalactites_46: 5943942693303558770
+      stalactites_47: 285827621027925941
+      stalactites_48: 8471429683996079307
+      stalactites_49: 2051408502211258869
+      stalactites_5: -7256311765971431685
+      stalactites_50: 3616797542256184631
+      stalactites_51: 6219939997292954368
+      stalactites_52: 1000606834642040778
+      stalactites_53: 704036146565283981
+      stalactites_54: -4487650257230154349
+      stalactites_55: 111974725971248176
+      stalactites_56: 6929587371959094304
+      stalactites_57: 7832278691280402457
+      stalactites_58: 5551560161885042933
+      stalactites_59: 1627096511657251044
+      stalactites_6: 4148069266045125263
+      stalactites_60: 5289640498920863714
+      stalactites_61: 5084364019654077334
+      stalactites_62: 6170843677828274622
+      stalactites_63: 3886323609737579717
+      stalactites_64: 5979335611643266041
+      stalactites_65: -1869179411393559643
+      stalactites_66: -7272566379586477122
+      stalactites_67: 2702626104634308864
+      stalactites_68: -615515576824462730
+      stalactites_69: -3846101751040400656
+      stalactites_7: 3000637552945894379
+      stalactites_70: -5484958612754894397
+      stalactites_71: 700509537803074841
+      stalactites_72: 1074284273607806046
+      stalactites_73: -2268150624177557075
+      stalactites_74: -3748197639249096168
+      stalactites_75: -719330990779564538
+      stalactites_76: 1284664313565682991
+      stalactites_77: -522146978770965095
+      stalactites_78: -3858610063436819225
+      stalactites_79: 6557661509060497644
+      stalactites_8: 2176277139620125559
+      stalactites_80: 1385690998926455986
+      stalactites_81: -8169503641257362356
+      stalactites_82: 6022344380071158814
+      stalactites_83: -4780842867360169956
+      stalactites_84: -8707123839252512210
+      stalactites_85: 3781148707815206031
+      stalactites_86: -7668235810332130000
+      stalactites_87: -208405804934347189
+      stalactites_88: -1672111882177349038
+      stalactites_89: -8775462066241290340
+      stalactites_9: -4449783484636665693
+      stalactites_90: 6749390808038875880
+      stalactites_91: 2605036619568519651
+      stalactites_92: -5522858791621113383
+      stalactites_93: -1581071632557064770
+      stalactites_94: -8720604692451543559
+      stalactites_95: -2970824899809109718
+      stalactites_96: -6574418735723107014
+      stalactites_97: 6123669546937109845
+      stalactites_98: 6240170340698074512
+      stalactites_99: 4437543126832770350
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
