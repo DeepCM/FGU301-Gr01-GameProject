@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: fd761f7df4c02914fb30907119ef3fa4
+guid: 57a6ee79381a43b41b5ec6958f3beec1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2521671544131867909
-    second: Tiles-Castle_0
+      213: -1045837061903473600
+    second: Mad Ghost Separated frame 12_0
+  - first:
+      213: -2311202640970772063
+    second: Mad Ghost Separated frame 12_1
+  - first:
+      213: 3968621031207029575
+    second: Mad Ghost Separated frame 12_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tiles-Castle_0
+      name: Mad Ghost Separated frame 12_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 432
-        height: 336
+        x: 59
+        y: 124
+        width: 82
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 505d034b8e6cef220800000000000000
-      internalID: 2521671544131867909
+      spriteID: 0442e48bbb07c71f0800000000000000
+      internalID: -1045837061903473600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad Ghost Separated frame 12_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 189
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a11efc7175fcefd0800000000000000
+      internalID: -2311202640970772063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad Ghost Separated frame 12_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 4
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b4d3d1dcf531730800000000000000
+      internalID: 3968621031207029575
       vertices: []
       indices: 
       edges: []
@@ -125,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Tiles-Castle_0: 2521671544131867909
+      Mad Ghost Separated frame 12_0: -1045837061903473600
+      Mad Ghost Separated frame 12_1: -2311202640970772063
+      Mad Ghost Separated frame 12_2: 3968621031207029575
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
