@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: fd761f7df4c02914fb30907119ef3fa4
+guid: abef6348b077bf440b7875d850d93692
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2521671544131867909
-    second: Tiles-Castle_0
+      213: -3434810107670875199
+    second: Mad Ghost Separated frame 29_0
+  - first:
+      213: -1856872852827942711
+    second: Mad Ghost Separated frame 29_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tiles-Castle_0
+      name: Mad Ghost Separated frame 29_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 432
-        height: 336
+        x: 144
+        y: 149
+        width: 82
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 505d034b8e6cef220800000000000000
-      internalID: 2521671544131867909
+      spriteID: 1c33b5dc76a1550d0800000000000000
+      internalID: -3434810107670875199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mad Ghost Separated frame 29_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0df1e7aff0b36e0800000000000000
+      internalID: -1856872852827942711
       vertices: []
       indices: 
       edges: []
@@ -125,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Tiles-Castle_0: 2521671544131867909
+      Mad Ghost Separated frame 29_0: -3434810107670875199
+      Mad Ghost Separated frame 29_1: -1856872852827942711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
