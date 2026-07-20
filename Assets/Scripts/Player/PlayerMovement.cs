@@ -31,6 +31,9 @@ public class PlayerController : MonoBehaviour
     public SpriteRenderer spriteRenderer;
 
     // internal state
+    [Header("State")]
+    public bool isMenuState = true;
+
     private float horizontalInput;
     private bool isGrounded;
     private bool isWalling;
@@ -56,8 +59,40 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    void OnEnable()
+    {
+        Game.Events.GameEvents.OnGameplayStart += HandleGameplayStart;
+    }
+
+    void OnDisable()
+    {
+        Game.Events.GameEvents.OnGameplayStart -= HandleGameplayStart;
+    }
+
+    private void HandleGameplayStart()
+    {
+        isMenuState = false;
+    }
+
     void Update()
     {
+        if (isMenuState || Time.timeScale == 0f)
+        {
+            horizontalInput = 0f;
+            isWalling = false;
+            if (Time.timeScale == 0f)
+            {
+                rb.linearVelocity = Vector2.zero;
+            }
+            else
+            {
+                isGrounded = true; // Stay grounded during menu
+                rb.linearVelocity = Vector2.zero;
+                UpdateAnimatorParams();
+            }
+            return;
+        }
+
         // ---- Input ----
         horizontalInput = Input.GetAxisRaw("Horizontal"); // A/D or Left/Right arrows
 
@@ -117,6 +152,31 @@ public class PlayerController : MonoBehaviour
 
         // ---- Update Animator parameters every frame ----
         UpdateAnimatorParams();
+        UpdateGlitchEffects();
+    }
+
+    private void UpdateGlitchEffects()
+    {
+        if (isMenuState)
+        {
+            GlitchState.GlitchIntensity = 0f;
+            return;
+        }
+
+        float targetIntensity = 0f;
+
+        if (isDashing)
+        {
+            // sudden visual glitch surge
+            targetIntensity = 0.6f;
+        }
+        else if (isWalling)
+        {
+            // sustained, vibrating glitch screen distortion
+            targetIntensity = 0.25f + Mathf.PingPong(Time.time * 30f, 0.15f);
+        }
+
+        GlitchState.GlitchIntensity = targetIntensity;
     }
 
     void FixedUpdate()
@@ -139,6 +199,10 @@ public class PlayerController : MonoBehaviour
     void Jump()
     {
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        if (Game.Audio.AudioManager.Instance != null)
+        {
+            Game.Audio.AudioManager.Instance.PlayJump();
+        }
     }
 
     System.Collections.IEnumerator DoDash()

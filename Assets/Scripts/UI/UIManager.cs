@@ -93,29 +93,70 @@ namespace Game.UI
             victoryPanel.SetActive(newState == GameUIState.Victory);
             settingsPanel.SetActive(newState == GameUIState.Settings);
 
+            // Enable CRT filter only in Main Menu screen
+            GlitchState.CRTEnabled = (newState == GameUIState.MainMenu);
+
             // Pause thuc su dung game bang cach dung Time.timeScale
             // Luu y: Settings cung phai dung game neu duoc mo tu trong luc Pause,
             // nhung neu mo tu MainMenu thi khong can dung (chua vao game).
             // Cach don gian: giu nguyen timeScale hien tai, chi doi khi vao/roi Paused.
-            if (newState == GameUIState.Paused) Time.timeScale = 0f;
-            else if (newState == GameUIState.Playing) Time.timeScale = 1f;
+            if (newState == GameUIState.Paused)
+            {
+                Time.timeScale = 0f;
+                if (Game.Audio.AudioManager.Instance != null)
+                {
+                    Game.Audio.AudioManager.Instance.PlayPause();
+                }
+            }
+            else if (newState == GameUIState.Playing)
+            {
+                Time.timeScale = 1f;
+                GameEvents.RaiseGameplayStart();
+            }
         }
 
         // ==== Gan cac ham nay vao OnClick() cua Button trong Inspector ====
-        public void OnClickPlay() => SetState(GameUIState.Playing);
-        public void OnClickResume() => SetState(GameUIState.Playing);
-        public void OnClickPause() => SetState(GameUIState.Paused);
+        public void OnClickPlay()
+        {
+            if (Game.Audio.AudioManager.Instance != null) Game.Audio.AudioManager.Instance.PlayClick();
+            SetState(GameUIState.Playing);
+        }
 
-        public void OnClickRetry() => UnityEngine.SceneManagement.SceneManager.LoadScene(
-            UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex);
+        public void OnClickResume()
+        {
+            if (Game.Audio.AudioManager.Instance != null) Game.Audio.AudioManager.Instance.PlayClick();
+            SetState(GameUIState.Playing);
+        }
 
-        public void OnClickBackToMenu() => UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
+        public void OnClickPause()
+        {
+            if (Game.Audio.AudioManager.Instance != null) Game.Audio.AudioManager.Instance.PlayClick();
+            SetState(GameUIState.Paused);
+        }
 
-        public void OnClickQuit() => Application.Quit();
+        public void OnClickRetry()
+        {
+            if (Game.Audio.AudioManager.Instance != null) Game.Audio.AudioManager.Instance.PlayClick();
+            UnityEngine.SceneManagement.SceneManager.LoadScene(
+                UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex);
+        }
+
+        public void OnClickBackToMenu()
+        {
+            if (Game.Audio.AudioManager.Instance != null) Game.Audio.AudioManager.Instance.PlayClick();
+            UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
+        }
+
+        public void OnClickQuit()
+        {
+            if (Game.Audio.AudioManager.Instance != null) Game.Audio.AudioManager.Instance.PlayClick();
+            Application.Quit();
+        }
 
         // Mo Settings - nho lai state hien tai de con quay lai dung cho
         public void OnClickOptions()
         {
+            if (Game.Audio.AudioManager.Instance != null) Game.Audio.AudioManager.Instance.PlayClick();
             stateBeforeSettings = currentState;
             SetState(GameUIState.Settings);
 
@@ -127,7 +168,11 @@ namespace Game.UI
         }
 
         // Dong Settings - quay lai dung state truoc do (MainMenu hoac Paused)
-        public void OnClickCloseSettings() => SetState(stateBeforeSettings);
+        public void OnClickCloseSettings()
+        {
+            if (Game.Audio.AudioManager.Instance != null) Game.Audio.AudioManager.Instance.PlayClick();
+            SetState(stateBeforeSettings);
+        }
 
         // Gan 2 ham nay vao OnValueChanged() cua 2 Slider trong SettingsPanel
         public void OnMusicVolumeChanged(float value01)

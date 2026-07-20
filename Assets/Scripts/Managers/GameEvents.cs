@@ -15,6 +15,10 @@ namespace Game.Events
     /// </summary>
     public static class GameEvents
     {
+        // Gameplay bat dau
+        public static event Action OnGameplayStart;
+        public static void RaiseGameplayStart() => OnGameplayStart?.Invoke();
+
         // HP thay doi: current, max
         public static event Action<int, int> OnHealthChanged;
         public static void RaiseHealthChanged(int current, int max) => OnHealthChanged?.Invoke(current, max);
