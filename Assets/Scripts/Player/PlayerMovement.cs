@@ -71,7 +71,7 @@ public class PlayerController : MonoBehaviour
         // Only "wall slide" if pressing into the wall, airborne, and falling
         isWalling = touchingWall && !isGrounded && horizontalInput != 0 && rb.linearVelocity.y < 0;
 
-        if (isGrounded)
+        if (isGrounded && rb.linearVelocity.y <= 0.01f)
         {
             // Landed (or standing) on the ground - fully reset the jump chain
             hasJumped = false;
@@ -100,7 +100,7 @@ public class PlayerController : MonoBehaviour
                 // Second jump - only usable once, after the first jump, while airborne
                 Jump();
                 hasDoubleJumped = true;
-                animator.SetTrigger("DoubleJump");
+                StartCoroutine(PulseBool("DoubleJump"));
                 Debug.Log("DOUBLEJUMP fired - trigger set, velocity=" + rb.linearVelocity);
             }
             else
@@ -141,6 +141,15 @@ public class PlayerController : MonoBehaviour
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
     }
 
+    // Sets a bool parameter true for one frame then false again - use this for bool params
+    // that need to behave like a one-shot Trigger (e.g. DoubleJump)
+    System.Collections.IEnumerator PulseBool(string paramName)
+    {
+        animator.SetBool(paramName, true);
+        yield return null; // wait one frame so the Animator has a chance to read it and transition
+        animator.SetBool(paramName, false);
+    }
+
     System.Collections.IEnumerator DoDash()
     {
         isDashing = true;
@@ -155,6 +164,7 @@ public class PlayerController : MonoBehaviour
         if (playerLayerIndex != -1 && dashableWallLayerIndex != -1)
         {
             Physics2D.IgnoreLayerCollision(playerLayerIndex, dashableWallLayerIndex, true);
+            Debug.Log($"Dash started - ignoring collision between layer {playerLayerIndex} (Player) and {dashableWallLayerIndex} (DashableWall)");
         }
 
         float dashDir = facingRight ? 1f : -1f;
@@ -227,4 +237,4 @@ public class PlayerController : MonoBehaviour
             Gizmos.DrawWireSphere(wallCheck.position, wallCheckRadius);
         }
     }
-}
+}   
