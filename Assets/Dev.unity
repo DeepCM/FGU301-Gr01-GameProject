@@ -520,7 +520,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   moveSpeed: 8
-  jumpForce: 8
+  jumpForce: 10
   dashSpeed: 18
   dashDuration: 0.4
   dashCooldown: 2
