@@ -1,5 +1,4 @@
 using UnityEngine;
-using System.Collections;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : MonoBehaviour
@@ -17,15 +16,14 @@ public class PlayerController : MonoBehaviour
     public LayerMask groundLayer;
 
     public Transform wallCheck;        // empty object placed at the character's side
-    public bool isWallJumping;
-    public float wallCheckRadius = 0.2f;
+    public float wallCheckRadius = 0.15f;
     public LayerMask wallLayer;
-    public float wallSlideSpeed = 2f;
-    public Vector2 wallJumpForce = new Vector2(10f, 12f); // horizontal and vertical force applied when jumping off a wall
-    public float WallJumpDuration = 0.5f;
-    public float WallJumpCounter;
-    public float WallJumpDirection; // -1 for left, 1 for right
-    public float WallJumpTime = 0.2f; // Time window to allow wall jump after leaving the wall
+
+    [Header("Dash Through Walls")]
+    public string playerLayerName = "Player";
+    public string dashableWallLayerName = "DashableWall";
+    private int playerLayerIndex;
+    private int dashableWallLayerIndex;
 
     [Header("References")]
     public Animator animator;
@@ -33,6 +31,9 @@ public class PlayerController : MonoBehaviour
     public SpriteRenderer spriteRenderer;
 
     // internal state
+    [Header("State")]
+    public bool isMenuState = true;
+
     private float horizontalInput;
     private bool isGrounded;
     private bool isWalling;
@@ -47,10 +48,51 @@ public class PlayerController : MonoBehaviour
         if (rb == null) rb = GetComponent<Rigidbody2D>();
         if (animator == null) animator = GetComponent<Animator>();
         if (spriteRenderer == null) spriteRenderer = GetComponent<SpriteRenderer>();
+
+        playerLayerIndex = LayerMask.NameToLayer(playerLayerName);
+        dashableWallLayerIndex = LayerMask.NameToLayer(dashableWallLayerName);
+
+        if (playerLayerIndex == -1 || dashableWallLayerIndex == -1)
+        {
+            Debug.LogWarning("Dash-through-wall: create 'Player' and 'DashableWall' layers in " +
+                              "Edit > Project Settings > Tags and Layers, and put this GameObject on 'Player'.");
+        }
+    }
+
+    void OnEnable()
+    {
+        Game.Events.GameEvents.OnGameplayStart += HandleGameplayStart;
+    }
+
+    void OnDisable()
+    {
+        Game.Events.GameEvents.OnGameplayStart -= HandleGameplayStart;
+    }
+
+    private void HandleGameplayStart()
+    {
+        isMenuState = false;
     }
 
     void Update()
     {
+        if (isMenuState || Time.timeScale == 0f)
+        {
+            horizontalInput = 0f;
+            isWalling = false;
+            if (Time.timeScale == 0f)
+            {
+                rb.linearVelocity = Vector2.zero;
+            }
+            else
+            {
+                isGrounded = true; // Stay grounded during menu
+                rb.linearVelocity = Vector2.zero;
+                UpdateAnimatorParams();
+            }
+            return;
+        }
+
         // ---- Input ----
         horizontalInput = Input.GetAxisRaw("Horizontal"); // A/D or Left/Right arrows
 
@@ -102,14 +144,39 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        // ---- Dash (J) ----
-        if (Input.GetKeyDown(KeyCode.J) && !isDashing && !dashOnCooldown)
+        // ---- Dash (Left Shift) ----
+        if (Input.GetKeyDown(KeyCode.LeftShift) && !isDashing && !dashOnCooldown)
         {
             StartCoroutine(DoDash());
         }
 
         // ---- Update Animator parameters every frame ----
         UpdateAnimatorParams();
+        UpdateGlitchEffects();
+    }
+
+    private void UpdateGlitchEffects()
+    {
+        if (isMenuState)
+        {
+            GlitchState.GlitchIntensity = 0f;
+            return;
+        }
+
+        float targetIntensity = 0f;
+
+        if (isDashing)
+        {
+            // sudden visual glitch surge
+            targetIntensity = 0.6f;
+        }
+        else if (isWalling)
+        {
+            // sustained, vibrating glitch screen distortion
+            targetIntensity = 0.25f + Mathf.PingPong(Time.time * 30f, 0.15f);
+        }
+
+        GlitchState.GlitchIntensity = targetIntensity;
     }
 
     void FixedUpdate()
@@ -132,6 +199,10 @@ public class PlayerController : MonoBehaviour
     void Jump()
     {
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        if (Game.Audio.AudioManager.Instance != null)
+        {
+            Game.Audio.AudioManager.Instance.PlayJump();
+        }
     }
 
     System.Collections.IEnumerator DoDash()
@@ -139,6 +210,16 @@ public class PlayerController : MonoBehaviour
         isDashing = true;
         dashOnCooldown = true;
         animator.SetBool("Dash", true);
+
+        // Dashing refreshes the jump chain - lets the player jump/double-jump again even mid-air
+        hasJumped = false;
+        hasDoubleJumped = false;
+
+        // Let the player pass through anything on the DashableWall layer for the dash's duration
+        if (playerLayerIndex != -1 && dashableWallLayerIndex != -1)
+        {
+            Physics2D.IgnoreLayerCollision(playerLayerIndex, dashableWallLayerIndex, true);
+        }
 
         float dashDir = facingRight ? 1f : -1f;
         float originalGravity = rb.gravityScale;
@@ -151,46 +232,14 @@ public class PlayerController : MonoBehaviour
         isDashing = false;
         animator.SetBool("Dash", false);
 
+        // Restore normal collision with dashable walls now that the dash is over
+        if (playerLayerIndex != -1 && dashableWallLayerIndex != -1)
+        {
+            Physics2D.IgnoreLayerCollision(playerLayerIndex, dashableWallLayerIndex, false);
+        }
+
         yield return new WaitForSeconds(dashCooldown);
         dashOnCooldown = false;
-    }
-
-    void WallJump()
-    {
-        if (isWalling)
-        {
-            // Determine the direction to jump away from the wall
-            WallJumpDirection = facingRight ? -1f : 1f;
-            // Apply the wall jump force
-            rb.linearVelocity = new Vector2(WallJumpDirection * wallJumpForce.x, wallJumpForce.y);
-            // Temporarily disable horizontal input for a short duration to prevent immediate re-grabbing the wall
-            isWallJumping = false;
-            WallJumpCounter = WallJumpDuration;
-        }
-        else
-        {
-            WallJumpCounter -= Time.deltaTime;
-        }
-
-        // Use GetButtonDown for input mapped to "Jump" (string); GetMouseButtonDown requires an int
-        if (Input.GetButtonDown("Jump") && WallJumpCounter > 0f) {
-            rb.linearVelocity = new Vector2(WallJumpDirection * wallJumpForce.x, wallJumpForce.y);
-            WallJumpCounter = 0f;
-            if (facingRight && WallJumpDirection < 0f)
-            {
-                Flip();
-            } else if (!facingRight && WallJumpDirection > 0f){
-                Flip();
-            } else
-            {
-                // Do nothing, already facing the correct direction
-            }
-        }
-    }
-
-    void StopWallJumping()
-    {
-
     }
 
     void HandleFlip()
