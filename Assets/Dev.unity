@@ -418,8 +418,8 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 3
+  m_AngularDamping: 0.25
+  m_GravityScale: 5
   m_Material: {fileID: 6200000, guid: 0262c3d3eb9a4bd4882b097dc0e5c3c2, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
@@ -498,7 +498,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 449217739}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 2.83, y: 2.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -519,9 +519,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1dc38b5b66e987d4f9899d5e6265c10e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  moveSpeed: 8
-  jumpForce: 8
-  dashSpeed: 18
+  moveSpeed: 15
+  jumpForce: 15
+  dashSpeed: 100
   dashDuration: 0.4
   dashCooldown: 2
   groundCheck: {fileID: 453646565}
@@ -539,6 +539,7 @@ MonoBehaviour:
   animator: {fileID: 449217740}
   rb: {fileID: 449217741}
   spriteRenderer: {fileID: 449217742}
+  isMenuState: 1
 --- !u!61 &449217745
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1629,6 +1630,6 @@ SceneRoots:
   m_Roots:
   - {fileID: 1000047904}
   - {fileID: 546475033}
-  - {fileID: 449217743}
   - {fileID: 1703908251}
   - {fileID: 1660499999}
+  - {fileID: 449217743}

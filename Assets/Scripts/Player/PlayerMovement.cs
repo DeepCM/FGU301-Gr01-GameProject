@@ -106,7 +106,7 @@ public class PlayerController : MonoBehaviour
         // Only "wall slide" if pressing into the wall, airborne, and falling
         isWalling = touchingWall && !isGrounded && horizontalInput != 0 && rb.linearVelocity.y < 0;
 
-        if (isGrounded)
+        if (isGrounded && rb.linearVelocity.y <= 0.01f)
         {
             // Landed (or standing) on the ground - fully reset the jump chain
             hasJumped = false;
